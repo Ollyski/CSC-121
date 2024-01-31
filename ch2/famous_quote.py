@@ -1,0 +1,2 @@
+message = "Bad food is made without pride, by cooks who have no pride, and no love. Bad food is made by chefs who are indifferent, or who are trying to be everything to everybody, who are trying to please everyone... Bad food is fake food... food that shows fear and lack of confidence in people's ability to discern or to make decisions about their lives." + ' - Anthony Bourdain'
+print(message)
